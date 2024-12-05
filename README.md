@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Router DOM and its solution. The bug involves unexpected behavior in route rendering or navigation.  The solution demonstrates correct usage of Routes, Route, and NavLink components for seamless navigation in a React application.
